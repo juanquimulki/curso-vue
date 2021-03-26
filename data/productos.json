@@ -1,0 +1,86 @@
+[
+    {
+        "id": "ADX1",
+        "producto": "Celular Sony",
+        "precio": 29800,
+        "pic": "imagen1.jpg"
+    },
+    {
+        "id": "12BC",
+        "producto": "Celular Samsung",
+        "precio": 35400,
+        "pic": "imagen1.jpg"
+    },
+    {
+        "id": "48ZS",
+        "producto": "Notebook Bangho",
+        "precio": 75200,
+        "pic": "imagen2.jpg"
+    },
+    {
+        "id": "Z5G3",
+        "producto": "PC Kit IBM",
+        "precio": 65399,
+        "pic": "imagen3.jpg"
+    },
+    {
+        "id": "123W",
+        "producto": "Celular Nokia",
+        "precio": 32600,
+        "pic": "imagen1.jpg"
+    },
+    {
+        "id": "90Y6",
+        "producto": "Auriculares JBL",
+        "precio": 2800,
+        "pic": "imagen4.jpg"
+    },
+    {
+        "id": "34TF",
+        "producto": "Silla Gamer Pro",
+        "precio": 45200,
+        "pic": "imagen5.jpg"
+    },
+    {
+        "id": "8G68",
+        "producto": "Auriculares Philips",
+        "precio": 1799,
+        "pic": "imagen4.jpg"
+    },
+    {
+        "id": "3GYR",
+        "producto": "Auriculares Daewo",
+        "precio": 1180,
+        "pic": "imagen4.jpg"
+    },
+    {
+        "id": "OP1W",
+        "producto": "PC Kit Acer",
+        "precio": 60999,
+        "pic": "imagen3.jpg"
+    },
+    {
+        "id": "79K0",
+        "producto": "Notebook Lenovo",
+        "precio": 77200,
+        "pic": "imagen2.jpg"
+    },
+    {
+        "id": "98QA",
+        "producto": "Celular LG+",
+        "precio": 33999,
+        "pic": "imagen1.jpg"
+    },
+    {
+        "id": "QA0I",
+        "producto": "Notebook HP",
+        "precio": 83200,
+        "pic": "imagen2.jpg"
+    },
+    {
+        "id": "13P9",
+        "producto": "Notebook Dell",
+        "precio": 95700,
+        "pic": "imagen2.jpg"
+    }         
+]
